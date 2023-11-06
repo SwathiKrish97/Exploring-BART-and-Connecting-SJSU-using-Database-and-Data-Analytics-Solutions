@@ -16,6 +16,7 @@ The blog post covers the following topics:
 9. Accessing the Blog Post
 To access the detailed walkthrough, instructions, and code examples, please visit the following link:
 https://medium.com/@sowmyaerappa/exploring-yelp-review-and-business-data-ac89f67dc9c
+https://medium.com/@swathirameshmail/bart-ridership-analysis-using-mongodb-8d8b73d3552b
 Exploring Yelp Review and Business Data
 
 The blog post provides step-by-step guidance and interactive examples to help you navigate and analyze Yelp's review and business data. It explores the potential insights that can be derived from this data and how businesses can leverage these insights to improve their operations and enhance the customer experience.
