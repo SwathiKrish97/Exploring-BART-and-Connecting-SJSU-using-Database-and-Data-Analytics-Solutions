@@ -5,13 +5,21 @@ Yelp stands as a crucial tool for locating local establishments and making choic
 This blog post will discuss:
 
 1. An overview of the data Yelp provides on reviews and businesses
+   
 2.The significance of analyzing this data for refining business strategies and enhancing customer interactions
+
 3.Employing graph modeling techniques with MongoDB, Neo4j, and Redis for dissecting Yelp's data
+
 4.Investigating the interconnections among businesses, categories, and cities
+
 5.Discovering trends and hidden insights through analytical methodologies
+
 6.Pinpointing key customers and spotting unusual patterns in consumer behavior
+
 7.Examining how customer sentiments influence business outcomes
+
 8.Utilizing data-informed strategies to boost customer contentment and loyalty
+
 9.To Access the Blog Post
 To dive into the comprehensive guide, inclusive of instructions and code samples, click on the links below:
 https://medium.com/@sowmyaerappa/exploring-yelp-review-and-business-data-ac89f67dc9c
