@@ -3,7 +3,6 @@
 Yelp stands as a crucial tool for locating local establishments and making choices backed by reviews and user insights. The extensive information on Yelp opens doors for companies and analysts to delve into consumer behaviors and patterns. This blog post aims to delve into a portion of Yelp's review and business data, extracting valuable insights about various businesses, urban areas, and sectors.
 
 This blog post will discuss:
-
 1. An overview of the data Yelp provides on reviews and businesses
    
 2.The significance of analyzing this data for refining business strategies and enhancing customer interactions
